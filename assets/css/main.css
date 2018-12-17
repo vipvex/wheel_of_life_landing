@@ -170,7 +170,7 @@ button, [type='button'], [type='reset'], [type='submit'] {
 .main {
   margin: 0 auto;
   max-width: 70rem;
-  padding: 0 0 10em 0; }
+  padding: 0 0 2em 0; }
 
 @media screen and (max-width: 900px) {
   .row.hero {
